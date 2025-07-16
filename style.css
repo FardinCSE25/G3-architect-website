@@ -87,4 +87,7 @@
   .nav-links {
     flex-direction: column;
   }
+  .banner-title {
+    width: 100%;
+  }
 }
